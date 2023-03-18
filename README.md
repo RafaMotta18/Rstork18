@@ -1,13 +1,9 @@
 ## Hey World, I'm a Rafael Motta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
 
 
-:computer: I'm Developer Front-end.
+:computer: I'm Developer Front-end and Data Engineer.
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: Create new projects and get my first job.
  
 
 ## Connect with me
@@ -28,19 +24,11 @@
 ----------------------------------------------------------------------------------
 ## Language and tools
 
-  
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
-[![card](https://github-readme-stats.vercel.app/api?username=rstork18&theme=dark)](https://github.com/rstork18/)
-
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rstork18&hide=html&layout=compact&theme=dark)](https://github.com/rstork18/)
-
-
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/> </code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 ----------------------------------------------------------------------------------
 
-### Development Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 
